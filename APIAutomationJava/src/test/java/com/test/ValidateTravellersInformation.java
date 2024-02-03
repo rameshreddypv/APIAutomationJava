@@ -1,5 +1,5 @@
 package com.test;
-
+// designed for practice purpose
 import static io.restassured.RestAssured.given;
 
 import java.io.File;
